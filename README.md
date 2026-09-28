@@ -1,60 +1,61 @@
 <div align="center">
-  <h1>Hi there, I'm Ricardo Markiewicz 👋</h1>
-  <p>
-    <em>Senior Software Engineer specialized in Mobile.</em>
-  </p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gazer/Gazer/main/assets/banner-dark.svg">
+    <img src="https://raw.githubusercontent.com/Gazer/Gazer/main/assets/banner-light.svg" width="100%" alt="Ricardo Markiewicz — Senior Mobile Engineer. Flutter & Dart, Kotlin Multiplatform, mobile payments.">
+  </picture>
 
-  <!-- Socials -->
   <p>
-    <a href="https://linkedin.com/in/ricardo-markiewicz">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://stackoverflow.com/users/3773452">
-      <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
-    </a>
-    <a href="https://twitter.com/gazeria">
-      <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter"/>
-    </a>
-    <a href="https://instagram.com/androidedelvalle">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
-    </a>
-    <a href="https://youtube.com/@AndroideDelValle">
-      <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"/>
-    </a>
+    <a href="https://linkedin.com/in/ricardo-markiewicz">LinkedIn</a> ·
+    <a href="https://stackoverflow.com/users/3773452">Stack Overflow</a> ·
+    <a href="https://youtube.com/@AndroideDelValle">YouTube</a> ·
+    <a href="https://gazer.github.io">Blog</a> ·
+    <a href="mailto:ricardo.markiewicz@gmail.com">Email</a>
   </p>
 </div>
 
----
-
-### ⚡ About Me
-
-- 🔭 I’m currently working at **Contentsquare** as a Senior Mobile Engineer on **Session Replay**
-- 🌱 I’m currently learning **Go**
-- 💬 Ask me about **Mobile Development, Flutter, and Engineering**
-- 📫 How to reach me: **ricardo.markiewicz@gmail.com**
+I build the mobile layer where **money moves** and where **sessions get replayed**. Payment SDKs, Flutter apps, and the tooling around them — by day as a Senior Mobile Engineer on **Session Replay** at [Contentsquare](https://contentsquare.com), the rest of the time as small apps for my family.
 
 ---
 
-### 💻 Tech Stack
+### px-flutter
+
+Unofficial **Mercado Pago** checkout SDK for Flutter. The one I'm most known for: it lets a Flutter app take payments without dropping into native code on each platform.
+
+**★ 49** · Dart · [repo](https://github.com/Gazer/px-flutter)
+
+### como-gasto
+
+Personal — and then whole-family — **expense tracker**. Born as a way to see where the month went, it's now the app my house runs on.
+
+**★ 52** · Dart · [repo](https://github.com/Gazer/como-gasto)
+
+---
+
+### Also shipped
+
+| Project | What it does | Stack | Stars |
+| --- | --- | :---: | :---: |
+| [ualabis-dart](https://github.com/Gazer/ualabis-dart) | Ualá checkout SDK for Dart | Dart | — |
+| [tmi.dart](https://github.com/Gazer/tmi.dart) | Dart client for the Twitch Messaging Interface | Dart | ★ 9 |
+| [czat](https://github.com/Gazer/czat) | Twitch chat built for live events | Flutter | ★ 4 |
+| [loop-o-matic](https://github.com/Gazer/loop-o-matic) | Agent-AI loop orchestrator — written while learning Go | Go | — |
+
+---
+
+### Stack
+
+`Dart` `Flutter` `Kotlin` `Jetpack Compose` `Kotlin Multiplatform` `Java` `Ruby` `Rails` `TypeScript` `Go (learning)` `Linux` `Neovim`
+
+---
+
+### Writing &amp; teaching
+
+**[@AndroideDelValle](https://youtube.com/@AndroideDelValle)** on YouTube · **[gazer.github.io](https://gazer.github.io)** · **[Stack Overflow](https://stackoverflow.com/users/3773452)**
+
+Ask me about mobile development, Flutter, Kotlin Multiplatform or mobile payments — [ricardo.markiewicz@gmail.com](mailto:ricardo.markiewicz@gmail.com)
+
+---
 
 <div align="center">
-
-| **Languages** | **Frameworks & Tools** |
-|:---:|:---:|
-| ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) <br/> ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) <br/> ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) <br/> ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) |
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-[![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gazer&theme=radical&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gazer&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Gazer&theme=radical&hide_border=false)](https://git.io/streak-stats)
-
+  <img src="https://streak-stats.demolab.com/?user=Gazer&hide_border=true" alt="Contribution streak">
 </div>
